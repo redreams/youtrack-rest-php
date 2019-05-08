@@ -1,5 +1,5 @@
 {
-    "name": "cybercog/youtrack-rest-php",
+    "name": "redreams/youtrack-rest-php",
     "description": "YouTrack REST API PHP Client.",
     "type": "library",
     "license": "MIT",
